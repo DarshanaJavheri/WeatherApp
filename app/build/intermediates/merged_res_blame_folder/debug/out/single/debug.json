@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_very_cloudy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_very_cloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_rainy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_rainy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_rainythunder.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_rainythunder.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_wind_degree.png.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\wind_degree.png"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_wind.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_pressure.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\layout_dialouge_box.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\dialouge_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.client.mausam.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.client.mausam.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.client.mausam.app-merged_res-33:/layout_activity_detail.xml.flat",
+        "source": "com.client.mausam.app-main-35:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\layout_daily_forcast_item.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\daily_forcast_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_snowyrainy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_snowyrainy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_rainshower.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_rainshower.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_italic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_wind_speed.png.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\wind_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_sunnycloudy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_sunnycloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_black.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_bold.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_preassure.png.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\preassure.png"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_light.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_city_about.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\city_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_snowy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_snowy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-hdpi_img.png.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-hdpi\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_item_glass_effect.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\item_glass_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_white_glass_effect.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\white_glass_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_font.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_lightitalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_heavysnow.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_heavysnow.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_cloudy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_cloudy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_extrabold.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_extralight.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_regular.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_semibold.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\layout_item_search_city.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\item_search_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_drop.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_close_icon.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\close_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_extralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_sunny.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_windy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_windy.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_thunder.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_thunder.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\font_nunitosans_blackitalic.ttf.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\font\\nunitosans_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_item_shimmer.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\item_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-merged_res-33:\\drawable_ic_sunnyrainy.xml.flat",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\drawable\\ic_sunnyrainy.xml"
+    }
+]

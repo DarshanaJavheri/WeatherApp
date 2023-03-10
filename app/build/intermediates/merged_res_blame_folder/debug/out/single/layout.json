@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-mergeDebugResources-32:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-mergeDebugResources-32:\\layout\\daily_forcast_item.xml",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\daily_forcast_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-mergeDebugResources-32:\\layout\\dialouge_box.xml",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\dialouge_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-mergeDebugResources-32:\\layout\\item_search_city.xml",
+        "source": "C:\\Users\\a890358\\.gradle\\daemon\\7.5\\com.client.mausam.app-main-35:\\layout\\item_search_city.xml"
+    },
+    {
+        "merged": "com.client.mausam.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.client.mausam.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.client.mausam.app-mergeDebugResources-32:/layout/activity_detail.xml",
+        "source": "com.client.mausam.app-main-35:/layout/activity_detail.xml"
+    }
+]
